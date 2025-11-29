@@ -1,3 +1,4 @@
+#eyes open
 # Wallet Core - EIP-7702 Smart Contract Wallet
 
 A modular and secure implementation of EIP-7702 smart contract wallet with multiple execution types and advanced security features.
